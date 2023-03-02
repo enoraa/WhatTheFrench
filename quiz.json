@@ -1,0 +1,51 @@
+{
+    "quizes":[{
+            "frenchword":"Manger",
+            "englishword":"Eat"
+        },
+        {
+            "frenchword":"Poisson",
+            "englishword":"Fish"
+        },
+        {
+           "frenchword":"Légumes",
+            "englishword":"Vegtables"
+        },
+        {
+           "frenchword":"Réserver une table",
+            "englishword":"Book a table"
+        },
+        {
+           "frenchword":"S'il vous plaît",
+            "englishword":"Please"
+        },
+        {
+            "frenchword":"Bonsoir",
+            "englishword":"Good evening"
+        },
+        {
+           "frenchword":"L'addition",
+            "englishword":"The bill"
+        },
+        {
+           "frenchword":"Un verre de vin",
+            "englishword":"A glass of wine"
+        },
+        {
+            "frenchword":"Pourboires",
+            "englishword":"Tips"
+        },
+        {
+           "frenchword":"Les entrées",
+            "englishword":"The starters"
+        },
+        {
+           "frenchword":"Pain",
+            "englishword":"Bread"
+        },
+        {
+            "frenchword":"Boisson",
+            "englishword":"Drink"
+        }
+    ]
+}
